@@ -3,6 +3,10 @@
 <img src="./READMEProjectsTitle.png"/>
 <img src="./READMEProjectsPokeApp.png"/>
 <img src="./READMEContactMeTitle.png"/>
+<div aling="justify">
+  <a href="https://www.linkedin.com/in/javier-iñaki-carro/" ><img width="10%" src="./READMEIconsLinkedIn.png"> &nbsp;
+  <a href="mailtojavier.carro.trabajo@gmail.com" ><img width="10%" src="./READMEIconsGMail.png">
+</div>
 
 <!--
 **DASAMOORHAI/DASAMOORHAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
