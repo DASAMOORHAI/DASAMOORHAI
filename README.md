@@ -5,7 +5,7 @@
 <img src="./READMEContactMeTitle.png"/>
 <div aling="justify">
   <a href="https://www.linkedin.com/in/javier-iñaki-carro/" ><img width="10%" src="./READMEIconsLinkedIn.png"> &nbsp;
-  <a href="mailtojavier.carro.trabajo@gmail.com" ><img width="10%" src="./READMEIconsGMail.png">
+  <a href="mailto:javier.carro.trabajo@gmail.com" ><img width="10%" src="./READMEIconsGMail.png">
 </div>
 
 <!--
